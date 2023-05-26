@@ -58,7 +58,7 @@ section.page {
     bottom: 0;
     left: 0;
     right: 0;
-    background: url('{{ site.url }}{{ site.baseurl }}/assets/img/tomasz-frankowski-kBUfvkbFIoE-unsplash.jpg');
+    background: url('../assets/img/tomasz-frankowski-kBUfvkbFIoE-unsplash.jpg');
     height: 365px;
     background-size: cover;
     background-position: center;
@@ -83,7 +83,7 @@ section.page {
     opacity: 0.25;
     height: 200px;
     padding-top: 95px;
-    background: url('{{ site.url }}{{ site.baseurl }}/assets/img/tomasz-frankowski-kBUfvkbFIoE-unsplash.jpg');
+    background: url('../assets/img/tomasz-frankowski-kBUfvkbFIoE-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -98,7 +98,7 @@ section.page {
     opacity: 0.25;
     height: 200px;
     padding-top: 95px;
-    background: url('{{ site.url }}{{ site.baseurl }}/assets/img/tomasz-frankowski-kBUfvkbFIoE-unsplash.jpg');
+    background: url('../assets/img/tomasz-frankowski-kBUfvkbFIoE-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }
